@@ -1,12 +1,16 @@
 body {
   font-family: "Merienda", cursive;
 }
-
-section {
-  border-style: solid;
+img {
+  border: solid;
+  border-image: auto;
 }
 
-.carousel,
+.container {
+  height: 1050px;
+}
+
+/* .carousel,
 .item,
 .active {
   height: 100%;
@@ -53,7 +57,7 @@ section {
 }
 .carousel-control {
   z-index: 2;
-}
+} */
 /* img.sticky {
   display: block;
   margin-left: auto;

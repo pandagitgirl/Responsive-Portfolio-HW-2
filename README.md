@@ -1,6 +1,7 @@
 # Responsive-Portfolio-HW-2
 
-[displaycontent](https://github.com/pandagitgirl/Responsive-Portfolio-HW-2)
+[Repo](https://github.com/pandagitgirl/Responsive-Portfolio-HW-2)
+[Responsive portfolio](https://pandagitgirl.github.io/Responsive-Portfolio-HW-2/)
 
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
